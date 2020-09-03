@@ -17,7 +17,7 @@
   "author": "Ayrton Teshima, Programador a Bordo",
   "license": "ISC",
   "dependencies": {
-    "@hapi/hapi": "^18.3.1",
+    "@hapi/hapi": "^19.1.1",
     "mongoose": "^5.6.0"
   },
   "devDependencies": {
